@@ -1,0 +1,1 @@
+loadBalance=com.fengluo.loadbalance.loadbalancer.RandomLoadBalance
